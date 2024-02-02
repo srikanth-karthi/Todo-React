@@ -1,0 +1,16 @@
+{
+    "tasks":[
+        {
+            "id": 1,
+            "text": "hospital",
+            "day":"march",
+            "reminder": false
+          },
+          {
+            "id": 2,
+            "text": "road",
+            "day":"march",
+            "reminder": true
+          }
+    ]
+}
